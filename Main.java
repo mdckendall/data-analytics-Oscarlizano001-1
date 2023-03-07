@@ -30,7 +30,7 @@ class Main {
           break;
         
         case 2:
-            System.out.println("US News - 100 Best Jobs");
+            System.out.println("US News - 100 Best Jobs!");
             break;
         case 3:
             System.out.println("Top 10 Forbes In-Demand Jobs!");
